@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "releaseDate": "2010-07-16",
+    "info": "A thief who enters the dreams of others to steal secrets from their subconscious.",
+    "rating": 8.8,
+    "image": "https://image.tmdb.org/t/p/original/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "releaseDate": "1994-10-14",
+    "info": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "rating": 9.3,
+    "image": "https://i.ebayimg.com/images/g/XxMAAOSw~zFg4aCs/s-l1600.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Godfather",
+    "releaseDate": "1972-03-24",
+    "info": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "rating": 9.2,
+    "image": "https://m.media-amazon.com/images/I/71khjV-MoOS._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "releaseDate": "2008-07-18",
+    "info": "When the menace known as The Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "rating": "9",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/k8xduvk0/poster/j/m/z/medium-the-dark-knight-poster-decorative-wall-poster-wall-d-cor-original-imafqu8euacqngyh.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "releaseDate": "1994-10-14",
+    "info": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "rating": 8.9,
+    "image": "https://m.media-amazon.com/images/I/61tWAHWr0lL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Dune",
+    "releaseDate": "2021-10-22",
+    "info": "A noble family becomes embroiled in a power struggle on a desert planet called Arrakis, which is the only known source of the most valuable substance in the universe.",
+    "rating": 7.5,
+    "image": "https://www.movieposters.com/cdn/shop/products/dune_fzj9yoaw_480x.progressive.jpg?v=1629748148"
+  },
+  {
+    "id": 7,
+    "title": "The Lord of the Rings: The Return of the King",
+    "releaseDate": "2003-12-17",
+    "info": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "rating": 8.9,
+    "image": "https://cdn.europosters.eu/image/1300/posters/the-lord-of-the-rings-the-return-of-the-king-i104633.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Matrix",
+    "releaseDate": "1999-03-31",
+    "info": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "rating": 8.7,
+    "image": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_SL1000_.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Gladiator",
+    "releaseDate": "2000-05-05",
+    "info": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "rating": 8.5,
+    "image": "https://rukminim2.flixcart.com/image/850/1000/kyvvtzk0/poster/d/x/8/medium-gladiator-matte-finish-poster-urbanprint6311-original-imagbygdgnhbdj8z.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 10,
+    "title": "Interstellar",
+    "releaseDate": "2014-11-07",
+    "info": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "rating": 8.6,
+    "image": "https://m.media-amazon.com/images/I/71GTnYW5ejL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Lion King",
+    "releaseDate": "1994-06-24",
+    "info": "A lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+    "rating": 8.5,
+    "image": "https://cdn.europosters.eu/image/750/the-lion-king-one-sheet-i76297.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Batman",
+    "releaseDate": "2022-03-04",
+    "info": "Batman is called to intervene when the mayor of Gotham City is murdered. Soon, his investigation leads him to uncover a web of corruption, linked to his own dark past.",
+    "rating": "8.3",
+    "image": "https://cdn.europosters.eu/image/1300/posters/the-batman-2022-i122127.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Schindler's List",
+    "releaseDate": "1993-12-15",
+    "info": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "rating": 8.9,
+    "image": "https://m.media-amazon.com/images/I/81sOKdyHzlL._SL1500_.jpg"
+  },
+  {
+    "id": 14,
+    "title": "The Green Mile",
+    "releaseDate": "1999-12-10",
+    "info": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "rating": 8.6,
+    "image": "https://filmartgallery.com/cdn/shop/products/the-green-mile-vintage-movie-poster-original-1-sheet-27x41.jpg?v=1665742969"
+  },
+  {
+    "id": 15,
+    "title": "Fight Club",
+    "releaseDate": "1999-10-15",
+    "info": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "rating": 8.8,
+    "image": "https://m.media-amazon.com/images/I/81sZU-iKNGL.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Forrest Gump",
+    "releaseDate": "1994-07-06",
+    "info": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "rating": 8.8,
+    "image": "https://image.tmdb.org/t/p/original/yu26pJwGFUyqTJWMWo1mMgBFJ0N.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Avatar",
+    "releaseDate": "2009-12-18",
+    "info": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "rating": 7.8,
+    "image": "https://cdn.europosters.eu/image/750/posters/avatar-limited-ed-one-sheet-sun-i7182.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Departed",
+    "releaseDate": "2006-10-06",
+    "info": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "rating": 8.5,
+    "image": "https://m.media-amazon.com/images/I/510gCMld+uL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Inglourious Basterds",
+    "releaseDate": "2009-08-21",
+    "info": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "rating": 8.3,
+    "image": "https://m.media-amazon.com/images/I/61PXdxTJGPL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Prestige",
+    "releaseDate": "2006-10-20",
+    "info": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "rating": 8.5,
+    "image": "https://i.pinimg.com/736x/4f/4d/fa/4f4dfabe5c46358c8d821bd2716e8186.jpg"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "username": "AhmedoElgamal",
+    "email": "ahmed@gmail.com",
+    "password": "123456",
+    "favorites": [
+      4,
+      17,
+      12
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Mohamed",
+    "email": "moh@gmail.com",
+    "password": "1234",
+    "favorites": [
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "username": "Omar",
+    "email": "omar@gmail.com",
+    "password": "12345",
+    "favorites": []
+  }
+]
